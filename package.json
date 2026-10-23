@@ -7,7 +7,12 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": ["learning", "ai", "education", "duolingo"],
+  "keywords": [
+    "learning",
+    "ai",
+    "education",
+    "duolingo"
+  ],
   "author": "SachaRbone",
   "license": "MIT",
   "dependencies": {
@@ -20,5 +25,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": "^22.23.4"
   }
 }
